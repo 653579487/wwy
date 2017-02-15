@@ -1,0 +1,51 @@
+
+/*默认样式*/
+html,body,div,p,h1,h2,h3,h4,h5,h6
+,blockquote,ul,ol,li,table,th,td,span,
+img,dl,dd,dt,input,textarea,button{
+    border:none;
+    padding:0;
+    margin:0;
+}
+body{
+    height: 5000px;
+    background-color: #eee
+}
+/*去点*/
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+/*去下划线*/
+a{
+    text-decoration: none;
+}
+img{
+    border:0; margin:0; padding:0
+}
+
+/* 约定中（。。。。。。）*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
